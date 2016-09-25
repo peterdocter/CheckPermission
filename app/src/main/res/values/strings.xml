@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">应用权限</string>
+    <string name="mainActivity">运行时权限</string>
+    <string name="callPhone">拨打电话</string>
+    <string name="warning">警告</string>
+    <string name="message_need_permission">当前应用缺少必要权限。\n请点击“设置”-“权限管理”-打开所需权限。</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确定</string>
+    <string name="help">帮助</string>
+    <string name="setting">设置</string>
+</resources>
